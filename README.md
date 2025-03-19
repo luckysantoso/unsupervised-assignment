@@ -10,7 +10,6 @@ Tugas ini bertujuan untuk menerapkan model unsupervised learning menggunakan alg
 
    - Memiliki **400** - **1000 record**.
    - Memiliki **5** - **15 kolom fitur**.
-   - Dataset dapat berasal dari sumber terbuka atau dibuat sendiri.
 
 2. **Metode Clustering:**
 
