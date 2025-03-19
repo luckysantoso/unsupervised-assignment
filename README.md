@@ -25,7 +25,7 @@ Tugas ini bertujuan untuk menerapkan model unsupervised learning menggunakan alg
 
 4. **Evaluasi:**
 
-   - Visualisasi hasil clustering dengan scatter plot atau heatmap.
+   - Visualisasi hasil clustering dengan scatter plot
    - Analisis hasil clustering dengan metrik seperti silhouette score atau inertia.
 
 5. **Pengumpulan:**
