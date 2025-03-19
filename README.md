@@ -52,4 +52,4 @@ unsupervised-assignment/
 
 ---
 
-**Happy Coding!** 🚀
+**Happy Coding Cuyy!** 🚀
